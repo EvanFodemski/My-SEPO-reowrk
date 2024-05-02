@@ -6,6 +6,8 @@
 
 ## Sporting event scheduler
 
+Evan Testing
+
 Introducing S.E.P.O (Sporting Event Promoters Online), the ultimate solution for seamlessly scheduling and managing sports events. Our app simplifies the process by allowing users to effortlessly create and organize events within the platform. From there, participants can easily sign up, with event details such as location, event type, and name readily available, along with an interactive map feature for precise navigation. With S.E.P.O, coordinating sports activities has never been easier, ensuring that every game, practice session, or tournament runs smoothly and efficiently.
 
 
